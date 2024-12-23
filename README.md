@@ -54,6 +54,6 @@ This project analyzes T20 World Cup player data to select the top 11 players for
 ---
 
 # **Future Enhancements**
-Incorporate additional parameters like fielding stats and player fitness data.
-Create a predictive model for forecasting future top performers based on historical data.
-Develop an interactive dashboard with real-time updates and player stats.
+- Incorporate additional parameters like fielding stats and player fitness data.
+- Create a predictive model for forecasting future top performers based on historical data.
+- Develop an interactive dashboard with real-time updates and player stats.
